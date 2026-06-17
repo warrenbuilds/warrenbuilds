@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/fox.gif" width="90" align="center" alt="mascot"/>
+
 # Warren
 
 **区块链科班出身、懂技术的产品经理。**
@@ -23,25 +25,20 @@
 
 ## 🛠 正在造的东西
 
-按主题陈列，不按时间。每个都在解决我自己真实遇到的问题。
+按"能解决真实问题"挑出来的，不按时间。链接陆续补上（`🔗 TODO`）。
 
-### 设计 · 创作工具
-<!-- 把项目逐个填进来。格式：[名字](链接) — 一句话说清它解决什么问题。⭐ star 数（公开后再加） -->
+### 🚀 已上线
+- **fenster** — 门窗参数化设计系统：SVG 绘图引擎 + BOM 成本核算 + 排料优化 + 自然语言生成配置，过 GB 合规校验。`Next.js 16 · three.js · Supabase` · `🔗 TODO`
 
-- **Sigma** — AI + 手动闭环的设计工具，选中元素 AI 只改选中范围。`<TODO: 一句话 + 链接>`
-- **FloatBall** — 桌面浮球，点一下截屏喂给 Claude，流式吐答案。`<TODO>`
+### 🛠 在造的产品
+- **Backend_Dev** — 一条 AI 后端开发流水线：给个 repo 和需求，自动走 spec 评审 → 规划 → agent 执行 → 自动代码审查 → 开 PR，带 JWT/RBAC 和完整测试。`FastAPI · Python` · `🔗 TODO`
+- **Warren_Cctail** — 用 iPhone 远程接管 Mac 上的 Claude Code 终端，随时随地继续手里的活。`SwiftUI · Mac daemon` · `🔗 TODO`
 
-### AI · Agent 实验
-- **Warren_Judge** — 多个 AI 同桌玩桌游的 harness，自动出解说视频。`<TODO>`
-- **Edge AI 实验** — 让 AI 当独立 PM，从 PLAN 跑到交付。`<TODO>`
+### 🔗 链上 · Web3 工程
+- **UX_Compensation** — 跨链客户赔付 CLI：Arbitrum/BSC 多签审批 + 不可变审计账本 + 安全闸。`TypeScript · ethers` · `🔗 TODO`
 
-### 学习 · 阅读 · 内容
-- **ClipLingo** — 用真实视频片段学英语的 iOS app。`<TODO>`
-- **Siglum / Brief** — AI 阅读 / 情报助手。`<TODO>`
-
-### 量化 · 链上
-- **Warren_Stock** — 威科夫量价系统，每天定时推研判。`<TODO>`
-- **链上追踪** — 跨链地址追踪 + 个人标签库。`<TODO>`
+### 🎨 图形 · 创意技术
+- **MetalInkDemo** — 牛皮纸纹理上的真实墨水扩散，可触摸交互的 Metal 着色器 demo。`SwiftUI · Metal` · `🔗 TODO`
 
 <br/>
 
