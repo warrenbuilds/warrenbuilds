@@ -2,7 +2,9 @@
 
 # Warren
 
-**我不是科班工程师。我把 AI coding agent 当作自我表达的媒介——把脑子里的想法，一个一个变成能跑的东西。**
+**区块链科班出身、懂技术的产品经理。**
+
+**既能把需求拆到工程颗粒度，也能亲手用 AI agent 把它造出来——从 idea 到能跑的产品，不用中间商。**
 
 <br/>
 
@@ -15,7 +17,7 @@
 
 <br/>
 
-> 一个人 + 一堆 agent，能造出来的东西比想象中多。这里是我正在造的。
+> 懂链、懂产品、懂怎么让一个人 + 一堆 agent 跑出团队的产出。这里是我正在造的。
 
 <br/>
 
@@ -69,6 +71,6 @@
 
 <div align="center">
 
-<sub>用 AI 把想法变成现实 · made by one person and a fleet of agents</sub>
+<sub>Blockchain-native PM who ships · one person and a fleet of agents</sub>
 
 </div>
